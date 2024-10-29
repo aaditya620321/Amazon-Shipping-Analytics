@@ -1,8 +1,3 @@
-## Northwind@MongoDB ##
-Forked from https://github.com/leisenstein/northwind-mongo
-which was forked from https://github.com/tmcnab/northwind-mongo
-which thanks to (@shayden)[https://github.com/shayden] for the csv dump.
-
 
 ### What it is
 
@@ -17,7 +12,6 @@ which thanks to (@shayden)[https://github.com/shayden] for the csv dump.
 * It's a straight data dump - no relations or special magic
 
 
-Thanks to [@shayden](https://github.com/shayden) for the csv dump. Buyer beware, caveat emptor, carthago delenda est et al
 
 
 
